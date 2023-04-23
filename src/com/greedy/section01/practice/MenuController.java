@@ -4,7 +4,6 @@ public class MenuController {
 
 	public static void main(String[] args) {
 		
-
 	}
 
 }
